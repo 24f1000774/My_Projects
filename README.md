@@ -1,4 +1,4 @@
-# Week 6 Assignment - Flask RESTful API
+Flask RESTful API
 
 This project implements a RESTful API using Flask-RESTful for managing courses, students, and enrollments.
 
